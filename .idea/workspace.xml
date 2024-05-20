@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edd38342-a5cf-43d9-99f6-1284cea6db3a" name="Changes" comment="ciao come va" />
+    <list default="true" id="edd38342-a5cf-43d9-99f6-1284cea6db3a" name="Changes" comment="ciao come va">
+      <change afterPath="$PROJECT_DIR$/src/Components/SearchBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/VideoCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/Chat.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/Editor.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/youtube.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/youtubeAPI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,39 +36,49 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Lisuccia20"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Lisuccia20&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Lisuccia20/chatgpt4o.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/Lisuccia20/LisaAssistant.git&quot;,
     &quot;accountId&quot;: &quot;0e1032e6-83f5-4057-94bb-eae735d32c84&quot;
   }
 }</component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\Users\deads\Documents\php\php.exe" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2gb4qngpYnNhgeCPRN9eU1zpyPe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "lisa-version",
-    "last_opened_file_path": "C:/Users/deads/Desktop/phpstorm/chatgpt",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/deads/Documents/GitHub/LisaAssistant&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\deads\\AppData\\Local\\JetBrains\\PhpStorm 2024.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\deads\Documents\GitHub\LisaAssistant\src\Pages" />
+      <recent name="C:\Users\deads\Documents\GitHub\LisaAssistant\src\Components" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,6 +96,10 @@
       <option name="presentableId" value="Default" />
       <updated>1715953136506</updated>
       <workItem from="1715953137568" duration="52000" />
+      <workItem from="1715954363423" duration="4547000" />
+      <workItem from="1715967214871" duration="13259000" />
+      <workItem from="1716105420947" duration="3604000" />
+      <workItem from="1716140204755" duration="15447000" />
     </task>
     <servers />
   </component>
